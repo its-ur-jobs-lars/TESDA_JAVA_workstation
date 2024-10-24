@@ -2,7 +2,7 @@ package Task9;
 
 import java.util.*;
 
-public class Task119 {
+public class Task119_v{
 
         public double sum(double add_num1, double add_num2){
             return add_num1 + add_num2;
