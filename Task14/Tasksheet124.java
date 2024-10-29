@@ -11,7 +11,7 @@ public class Tasksheet124{
     public static void main(String[] args) {
         // Create 10 elements of numbers containing of positive and negative numbers
 
-    List<Integer> numbers = List.of(5,-6,17,-10,-8,-9,-20,4,13,25);
+    List<Integer> numbers = Arrays.asList(5,-6,17,-10,-8,-9,-20,4,13,25);
 
     System.out.println("Original List: " + numbers);
 
