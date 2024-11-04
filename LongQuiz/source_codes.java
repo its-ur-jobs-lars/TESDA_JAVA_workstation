@@ -2,7 +2,7 @@ package LongQuiz;
 
 public class source_codes {
     public static void main(String[] args) {
-        System.out.println(new Cheetah(50).numSpots);
+        //System.out.println(new Cheetah(50).numSpots);
         
         
     }
